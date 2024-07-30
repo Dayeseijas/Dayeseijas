@@ -10,7 +10,3 @@ Idiomas: Español (nativo) e Inglés (intermedio).
 # 🎓 Educación:
 Licenciada en Psicología Clínica - Universidad Bicentenaria De Aragua.
 QA Engineer - Bootcamp Tripleten.
-# 📫 Contacto:
-Correo: burkledaye@gmail.com
-Teléfono: +51935264084
-LinkedIn: linkedin.com/in/dayeici-seijas
