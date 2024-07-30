@@ -7,6 +7,7 @@
 # 🌟 Habilidades:
 Testing y QA: Diseño y documentación de pruebas, pruebas API con POSTMAN, manejo de bases de datos con Bash y SQL.
 Idiomas: Español (nativo) e Inglés (intermedio).
+
 # 🎓 Educación:
 Licenciada en Psicología Clínica - Universidad Bicentenaria De Aragua.
 QA Engineer - Bootcamp Tripleten.
