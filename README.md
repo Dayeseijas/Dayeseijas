@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Dayeseijas/Dayeseijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Dayeici Seijas Tovar
 
-Here are some ideas to get you started:
+¡Hola! Soy Dayeici, una Tester QA jr apasionada por asegurar la calidad del software. Con una base en psicología clínica y formación en QA, me dedico a diseñar y documentar pruebas, así como a realizar pruebas API y manejar bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌟 Habilidades:
+Testing y QA: Diseño y documentación de pruebas, pruebas API con POSTMAN, manejo de bases de datos con Bash y SQL.
+Idiomas: Español (nativo) e Inglés (intermedio).
+# 🎓 Educación:
+Licenciada en Psicología Clínica - Universidad Bicentenaria De Aragua.
+QA Engineer - Bootcamp Tripleten.
+# 📫 Contacto:
+Correo: burkledaye@gmail.com
+Teléfono: +51935264084
+LinkedIn: linkedin.com/in/dayeici-seijas
