@@ -10,7 +10,7 @@ Testing y QA: Diseño y documentación de pruebas, pruebas API con POSTMAN, mane
 Idiomas: Español (nativo) e Inglés (intermedio).
 
 # 💻 Tecnologías y lenguajes: 
-![image](https://github.com/user-attachments/assets/56081678-04b9-499f-8808-afdb6544bddb)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,html,css,bash,figma,github,postman,py,pycharm,selenium,)](https://skillicons.dev)
 
 
 # 🎓 Educación:
