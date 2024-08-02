@@ -1,4 +1,5 @@
 ## Hola, mundo👋
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/d6ef1d1e-1a84-4105-bcc9-4cb60afe6f84)
 
 👩‍💻 Dayeici Seijas Tovar
 
